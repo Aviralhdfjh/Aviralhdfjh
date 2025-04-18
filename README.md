@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 ## 📫 Let’s Connect!
 Feel free to check out my work, suggest collaboration, or just say hi!
 
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/aviral-gupta-350a82276/))  | [Email](aviralgup16@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aviral-gupta-350a82276/)  | [Email](aviralgup16@gmail.com)
 
 ---
 
